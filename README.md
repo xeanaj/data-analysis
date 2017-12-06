@@ -1,10 +1,14 @@
-## Table of contents
+## git 명령어
 
-* [자연어 처리](#자연어처리)
-   * [KoNLPy](#konlpy)
-   * [CKEditor 5 Framework](#ckeditor-5-framework)
+    >> git init
+    >> git add README.md
+    >> git commit -m "first commit"
+    >> git remote add origin https://github.com/xeanaj/data-analysis.git
+    >> git push -u origin master
 
-## 자연어처리
+    >> git add -u README.md
+    >> git commit -m "update"
+    >> git push -u origin master
 
-
-## KoNLPy
+## 파일명세
+* jtbcnews_limit_1000_2017-12-06_2016-12-08.txt : facebook jtbcnews graph api로 가져온 원본 파일
