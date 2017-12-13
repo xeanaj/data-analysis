@@ -12,3 +12,6 @@
 
 ## 파일명세
 * jtbcnews_limit_1000_2017-12-06_2016-12-08.txt : facebook jtbcnews graph api로 가져온 원본 파일
+
+## 워드클라우드 결과
+<img src="https://github.com/xeanaj/data-analysis/blob/master/jtbcnews_wordcloud.jpg" />
